@@ -1,0 +1,1110 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.app.light {
+	background: -o-linear-gradient(87.54deg, #FFE0B3 -9.31%, rgba(255, 240, 217, 0) 102.37%), #FFFFFF;
+	/* background: linear-gradient(2.46deg, #95b6ff -9.31%, rgba(255, 255, 255) 102.37%), #ffffff; */
+	background-size: cover;
+}
+
+.app.light .MuiPaper-root.hec-card {
+	background: -o-linear-gradient(top, #FFF3E1 0%, #FFDFAD 100%);
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFF3E1), to(#FFDFAD));
+	background: linear-gradient(180deg, #e6edff 0%, #d6e1fb 100%);
+	border: 1px solid #ba2fb0;
+	-webkit-box-shadow: inset -9px -12px 25px -3px rgba(255, 255, 255, 0.24);
+	box-shadow: inset -9px -12px 25px -3px rgba(255, 255, 255, 0.24);
+	border-radius: 10px;
+}
+.app.light #choose-bond-view .hec-card .bond-hero h4 {
+ color: #222;
+}
+.app.light .stake-wallet-notification .wallet-menu .connect-button {
+	background: #FF9900;
+	border-radius: 5px;
+	font-size: 18px;
+	line-height: 21px;
+	color: #FFFFFF;
+	height: 41px;
+	width: 172px;
+	border: 1px solid #ba2fb0;
+	min-width: auto;
+	margin-bottom: 12px;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+}
+
+.app.light .stake-wallet-notification .MuiTypography-root.MuiTypography-h6 {
+	font-size: 12px;
+	line-height: 14px;
+}
+
+
+.app.light .MuiDrawer-paper {
+	background: transparent;
+}
+
+.app.light .stake-top-metrics h5 {
+	font-size: 23px;
+	line-height: 29px;
+	color: #161616;
+	width: -webkit-max-content;
+	width: -moz-max-content;
+	width: max-content;
+}
+
+.app.light .stake-top-metrics h4 {
+	font-weight: 800;
+}
+
+.app.light .MuiTypography-h6 {
+	font-size: 18px;
+	line-height: 21px;
+}
+
+.app.light .branding-header .wallet-link {
+	color: #ba2fb0;
+}
+
+.app.light .MuiTypography-body2 {
+	font-size: 10px;
+	line-height: 12px;
+}
+
+.app.light .MuiTypography-root .MuiTypography-body2 {
+	font-size: 14px;
+	line-height: 17px;
+}
+
+.app.light .card-header .MuiTypography-h5 {
+	font-size: 35px;
+    line-height: 29px;
+    margin-bottom: 30px;
+}
+
+.app.light .MuiButton-label path {
+	fill: #ba2fb0;
+}
+
+.app.light #hec-menu-button {
+	border: 1px solid #ba2fb0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+.app.light .dapp-topbar .MuiButton-containedSecondary {
+	background-color: transparent;
+}
+.app.light .dapp-topbar .MuiButton-containedSecondary:hover {
+	background-color: #84a0df !important;
+	color: #222;
+	border: 1px solid rgba(255, 153, 0, .5);
+}
+
+.app.light .dapp-topbar button {
+	border: 1px solid #ba2fb0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 5px;
+	font-size: 18px;
+	font-weight: 500;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+}
+
+.app.light .pending-txn-container .MuiButton-label span {
+	color: #222;
+}
+
+.app.light .MuiTypography-body1 {
+	font-size: 18px;
+}
+
+.app.light .pending-txn-container .MuiButton-label {
+	color: #222;
+}
+
+.app.light .MuiToggleButton-label path {
+	fill: #ba2fb0;
+}
+.app.light .MuiToggleButton-root {
+	background: transparent;
+}
+.app.light .MuiToggleButton-root:hover {
+	border: 1px solid #ba2fb0;
+	background: #84a0df;
+}
+
+.app.light .stake-wallet-notification .wallet-menu .connect-button:hover {
+	background: transparent;
+	color: #161616;
+}
+
+.MuiPaper-root {
+	color: #161616;
+}
+
+.app.light .MuiButton-fullWidth {
+	background: #ba2fb0;
+	color: #FFFFFF;
+	font-size: 18px;
+	border: 1px solid #ba2fb0;
+}
+
+.app.light .MuiButton-fullWidth:hover {
+	background: transparent;
+	color: #253449;
+}
+
+.app.light .MuiButton-outlinedPrimary {
+	background: #ba2fb0;
+	color: #FFFFFF;
+	border: 1px solid #ba2fb0;
+}
+
+.app.light .MuiButton-outlinedPrimary:hover {
+	background: transparent;
+	color: #253449;
+	border: 1px solid #ba2fb0;
+}
+
+.app.light .MuiTableCell-root {
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.app.light .bond-name a p {
+	font-size: 12px;
+	line-height: 14px;
+}
+
+.app.light .MuiTableRow-root.MuiTableRow-head .MuiTableCell-root {
+	font-size: 18px;
+	color: #161616;
+	font-weight: 300;
+}
+
+.app.light .MuiTypography-colorTextSecondary,
+.app.light .MuiTab-textColorPrimary {
+	color: #161616;
+}
+
+.app.light #bond-view .MuiBackdrop-root .hec-card {
+	background: #d2e0ff;
+	border: 1px solid #ba2fb0;
+}
+
+.app.light .jss2 {
+	background: url(/static/media/light-back.png) no-repeat bottom;
+}
+
+.app.light .social-row svg path {
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+}
+
+.app.light .social-row a:hover svg path {
+	fill: #ba2fb0;
+}
+
+.app.light #bond-view .MuiBackdrop-root {
+	background: rgba(22, 22, 22, 0.8);
+	-webkit-backdrop-filter: blur(25px);
+	        backdrop-filter: blur(25px);
+}
+
+#hades {
+	background: rgba(22, 22, 22, 0.8);
+	-webkit-backdrop-filter: blur(25px);
+	        backdrop-filter: blur(25px);
+}
+
+.app.light .dapp-topbar .MuiButton-containedSecondary:hover {
+	background-color: transparent;
+	color: #222;
+	border: 1px solid #ba2fb0;
+}
+
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.app.dark {
+	background: #20376a;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	-webkit-box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	        box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	border-radius: 10px;
+	/* background-image: url("bg.gif"); */
+	background-size: cover;
+}
+
+.app.dark .MuiPaper-root.hec-card {
+	background: #121f38;
+	border: 1px solid #ba2fb0;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	-webkit-box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	        box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	border-radius: 10px;
+}
+
+.app.dark .stake-wallet-notification .wallet-menu .connect-button {
+	background: transparent;
+	border-radius: 5px;
+	font-size: 18px;
+	line-height: 21px;
+	color: #fff;
+	height: 41px;
+	width: 172px;
+	border: 1px solid #ba2fb0;
+	min-width: auto;
+	font-weight: 400;
+	margin-bottom: 12px;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+}
+
+.app.dark .stake-wallet-notification .MuiTypography-root.MuiTypography-h6 {
+	font-size: 12px;
+	line-height: 14px;
+	color: #fff;
+}
+
+.app.dark .MuiDrawer-paper {
+	background: #20376a;
+	border-right: 1px solid #FF9900;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	-webkit-box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	        box-shadow: 7px 11px 63px rgb(3, 28, 52);
+}
+
+.app.dark .stake-top-metrics h5 {
+	font-size: 23px;
+	line-height: 29px;
+	color: #fff;
+	width: -webkit-max-content;
+	width: -moz-max-content;
+	width: max-content;
+}
+
+.MuiButton-containedPrimary {
+	background-color: #ba2fb0 !important;
+}
+
+.MuiButton-containedPrimary:hover {
+	border: 1px solid #ba2fb0 !important;
+	background-color: transparent !important;
+}
+
+.app.dark .stake-top-metrics h4 {
+	font-weight: 500;
+	color: #84a0df;
+}
+
+.app.dark #treasury-dashboard-view .hero-metrics .hec-card h5 {
+	color: #84a0df;
+}
+
+.app.dark .MuiTypography-h6 {
+	font-size: 18px;
+	line-height: 21px;
+	font-weight: 400;
+}
+
+.app.dark .MuiLink-root.active {
+	-webkit-text-decoration-color: #FF9900;
+	        text-decoration-color: #ba2fb0;
+}
+
+.app.dark .branding-header .wallet-link {
+	color: #FFFFFF;
+}
+
+.app.dark .MuiTypography-body2 {
+	font-size: 10px;
+	line-height: 12px;
+	color: #FFFFFF;
+}
+
+.app.dark .MuiTypography-root .MuiTypography-body2 {
+	font-size: 14px;
+	line-height: 17px;
+}
+
+.app.dark .card-header .MuiTypography-h5 {
+	font-size: 24px;
+	line-height: 29px;
+	margin-bottom: 10px;
+	color: #fff;
+}
+
+.app.dark .MuiButton-label path {
+	fill: #ba2fb0;
+}
+
+.app.dark #hec-menu-button {
+	border: 1px solid #ba2fb0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 5px;
+	background: #20376a;
+}
+.app.dark #hec-menu-button:hover path{
+	fill: #fff;
+}
+
+.app.dark .dapp-topbar .MuiButton-containedSecondary:hover {
+	background-color: #ba2fb0 !important;
+	border: 1px solid rgba(255, 153, 0, .5);
+}
+
+.app.dark .dapp-topbar button {
+	border: 1px solid #ba2fb0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 5px;
+	font-size: 18px;
+	font-weight: 500;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+	background: #20376a;
+}
+
+.app.dark .pending-txn-container .MuiButton-label span {
+	color: #fff;
+}
+
+.app.dark .MuiTypography-body1 {
+	font-size: 18px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.app.dark .MuiSkeleton-text {
+	background: #fff;
+}
+
+.app.dark .pending-txn-container .MuiButton-label {
+	color: #fff;
+}
+
+.app.dark .MuiToggleButton-label path {
+	fill: #ba2fb0;
+}
+
+.app.dark .MuiToggleButton-root:hover {
+	background: #ba2fb0 !important;
+}
+
+
+.app.dark .MuiToggleButton-root:hover  .MuiToggleButton-label path {
+ fill: #fff;
+}
+.app.dark .stake-wallet-notification .wallet-menu .connect-button:hover {
+	background: #ba2fb0;
+}
+
+.MuiPaper-root {
+	color: #161616;
+}
+
+.app.dark .MuiButton-fullWidth {
+	background: #000;
+	color: #fff;
+	font-size: 18px;
+	border: 1px solid #ba2fb0;
+	font-weight: 400;
+}
+
+.app.dark .MuiButton-fullWidth:hover {
+	background: #ba2fb0;
+}
+
+.app.dark #hades .hec-popover h3 {
+	color: #fff;
+}
+
+.app.dark .MuiButton-outlinedPrimary {
+	background: #121f38;
+	color: #fff;
+	border: 1px solid #ba2fb0;
+}
+
+.app.dark .MuiButton-outlinedPrimary:hover {
+	background: #ba2fb0;
+	border: 1px solid #ba2fb0;
+}
+
+.app.dark .MuiTableCell-root {
+	font-weight: 400;
+	font-size: 16px;
+}
+
+.app.dark .bond-name a p {
+	font-size: 12px;
+	opacity: .5;
+	line-height: 14px;
+}
+
+.app.dark .MuiTableRow-root.MuiTableRow-head .MuiTableCell-root {
+	font-size: 18px;
+	color: #fff;
+	font-weight: 300;
+}
+
+.app.dark .MuiTypography-colorTextSecondary,
+	.app.dark .MuiTab-textColorPrimary, .app.dark .MuiTypography-h5 {
+	color: #fff;
+}
+
+.app.dark #bond-view .bond-price-data-row h3.price {
+	color: #84a0df;
+}
+
+.app.dark #bond-view .MuiBackdrop-root .hec-card {
+	background: #000;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	-webkit-box-shadow: 7px 11px 63px rgb(3, 28, 52);
+	        box-shadow: 7px 11px 63px rgb(3, 28, 52);
+}
+
+.app.dark .jss2 {
+	background: url(/static/media/light-back.png) no-repeat bottom;
+}
+
+.app.dark .social-row svg path {
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+	fill: #FFFFFF;
+}
+
+.app.dark .social-row a:hover svg path {
+	fill: #84a0df;
+}
+
+.app.dark #bond-view .MuiBackdrop-root {
+	background: rgba(22, 22, 22, 0.8);
+	-webkit-backdrop-filter: blur(25px);
+	        backdrop-filter: blur(25px);
+}
+
+.app.dark #hades {
+	background: rgba(22, 22, 22, 0.8);
+	-webkit-backdrop-filter: blur(25px);
+	        backdrop-filter: blur(25px);
+}
+
+.app.dark .dapp-topbar .MuiButton-containedSecondary:hover {
+	background-color: transparent;
+	border: 1px solid #ba2fb0;
+}
+
+
+.app.dark #choose-bond-view .hec-card .bond-hero h4 {
+	color: #84a0df;
+	font-weight: 400 !important;
+}
+
+
+
+
+
+
+
+
+/* added code */
+
+
+
+/* START HEADER */
+
+	header .MuiButton-label img{
+		width: 17px;
+		float: left;
+		margin-right: 10px;
+	}
+
+/* END HEADER */
+
+
+/* GENERAL SECTIONS VIEW */
+
+	.app.light {
+		/* background-image: url("main_background_nftgmdao.jpg") !important; */
+		background-size:cover !important;
+		background-position:center center !important;
+	}
+
+	.app.light .dapp-topbar button.MuiToggleButton-root {
+		display:none;
+	}
+
+	.sidebar .dapp-menu-top {
+		background-image: url(logo_main.png) !important;
+		background-position: left top;
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	.sidebar > div > div{
+		padding-right: 22px;
+	}
+	.MuiDrawer-root{
+		background-image: url("main_background_nftgmdao.jpg") !important;
+		background-size:cover !important;
+		background-position:center center !important;
+	}
+
+	.MuiDrawer-root .MuiSvgIcon-colorPrimary {
+		color: #ffffff;
+	}
+
+	.app.light #hec-menu-button,
+	.app.light .dapp-topbar .MuiButton-containedSecondary{
+		background-image: linear-gradient(9deg, #bb00a4, #3b007c);
+		padding: 12px 30px;
+		border-radius: 99px;
+		color: #fff;
+	}
+
+	.app.light .dapp-topbar .MuiButton-containedSecondary .MuiButton-label,
+	.app.light .dapp-topbar .MuiButton-containedSecondary .MuiButton-label:hover{
+		background-image: linear-gradient(9deg, #bb00a4, #3b007c);
+		border-radius: 99px;
+		color: #fff;
+	}
+
+	.app.light .MuiButton-label path {
+		fill: #ffffff;
+	}
+
+	.app.light .MuiPaper-root.hec-card {
+		background: rgba(72,0,72,0.7);
+		border: 0px solid #ba2fb0;
+		box-shadow: 0px 0px 40px rgba(0,0,0,0.3);
+		border-radius: 16px;
+		padding: 50px;
+		color:#fff !important;
+		margin-top:40px !important;
+	}
+
+	.app.light .MuiPaper-root.hec-card button{
+		border-radius:99px !important;
+		color: #fff;
+	}
+
+	.app.light .MuiPaper-root.hec-card button:hover{
+		color:#fff !important;
+	}
+
+	.app.light .stake-top-metrics h5,
+	.app.light #choose-bond-view .hec-card .bond-hero h4,
+	.app.light .MuiTypography-colorTextSecondary,
+	.app.light .MuiTab-textColorPrimary,
+	.app.light .MuiTableRow-root.MuiTableRow-head .MuiTableCell-root,
+	.app.light .MuiTableCell-body,
+	.MuiInputBase-root {
+		color:#fff !important;
+	}
+
+
+	.app.light .MuiTypography-h5,
+	.app.light .MuiTypography-h5 + p{
+		text-align:center;
+	}
+
+	.app.light .card-header .MuiBox-root{
+		width: 100%;
+		text-align: center;
+	}
+
+
+	.app.light .MuiTableRow-root.MuiTableRow-head .MuiTableCell-root {
+		opacity:0.5;
+		font-weight: 700;
+	}
+
+	.app.light .MuiBox-root h5,
+	.app.light .stake-top-metrics h5{
+		font-size: 15px;
+		line-height: 34px;
+		padding: 0px 10px 10px 10px;
+	}
+
+/* FIN GENERAL SECTIONS VIEW */
+
+
+
+/* DASHBOARD VIEW */
+
+
+	.dashboardBoxes{
+		border: solid 0px rgba(255,255,255,0.4);
+		padding: 60px 30px;
+		border-radius: 14px;
+		background: #440044;
+		justify-content: center !important;
+	}
+
+	.dashboardBoxes > div{
+		margin:0 !important;
+		padding-top: 40px !important;
+		padding-bottom: 35px !important;
+	}
+
+	.dashboardBoxes > div h6{
+		font-weight: 200;
+		margin-bottom:20px;
+		font-size:1.2em !important;
+	}
+
+	.dashboardBoxes > div h5{
+		font-size:1.6em !important;
+		padding-bottom:0px !important;
+	}
+
+	.dashboardBoxes > div:nth-child(1),
+	.dashboardBoxes > div:nth-child(2),
+	.dashboardBoxes > div:nth-child(3){
+		border-bottom:dotted 1px rgb(233 98 235 / 40%);
+	}
+
+	.dashboardBoxes > div:nth-child(2),
+	.dashboardBoxes > div:nth-child(5){
+		border-left:dotted 1px rgb(233 98 235 / 40%);
+		border-right:dotted 1px rgb(233 98 235 / 40%);
+	}
+
+/* FIN DASHBOARD VIEW */
+
+
+
+
+
+
+/* START BOND VIEW */
+
+	.bondView .squaresLine {
+		border: solid 1px rgba(255,255,255,0.15);
+		padding: 30px;
+		border-radius: 14px;
+		background: #440044b3;
+	}
+
+	.bondView .squaresLine > div{
+		border-right: solid 1px rgba(255,255,255,0.4);
+	}
+
+	.bondView .squaresLine > div:nth-child(2){
+		border: solid 0px rgba(255,255,255,0.4);
+	}
+
+	.bondView .tableZone .MuiTableBody-root .MuiTableRow-root{
+		border-bottom: solid 1px rgba(255,255,255,0.15);
+	}
+
+	.bondView .tableZone .MuiTableBody-root .MuiTableRow-root:last-child{
+		border-bottom: solid 0px rgba(255,255,255,0.15);
+	}
+
+	/*BOND POPUPS*/
+	.app.light #bond-view .MuiBackdrop-root .hec-card {
+		background: #620056;
+		border: 0px solid #ba2fb0;
+		background-image: url("main_background_nftgmdao.jpg") !important;
+		background-size:cover !important;
+		background-position:center left !important;
+	}
+
+	.app.light #bond-view .bond-price-data h3{
+		color:#fff;
+	}
+
+	.bondView.popupS .bond-header .MuiSvgIcon-colorPrimary{
+		color: #ffffff;
+	}
+
+	.bondView.popupS .squaresLine > div{
+		width:50%;
+	}
+
+	.bondView.popupS .MuiPaper-root.hec-card button {
+		padding: 13px 13px;
+		border-radius: 99px;
+	}
+
+	.bondView.popupS .MuiTabs-root .MuiTab-wrapper {
+		padding: 1px 15px !important; 
+		border-radius: 99px !important; 
+		font-size: 0.65em !important; 
+		font-weight: 500 !important; 
+	}
+
+	.bondView.popupS .MuiTabs-scroller > div + span{
+		background-color: #ffffff !important;
+		border-radius: 3px;
+		height: 1px;
+	}
+
+	.bondView.popupS .tableZone .MuiBox-root > .MuiBox-root > div{
+		padding:12px 30px;
+		border-radius:99px;
+		margin:0;
+	}
+
+	.bondView.popupS .tableZone .MuiBox-root > .MuiBox-root > div p{
+		font-size:1.1em !important;
+	}
+
+	.bondView.popupS .tableZone .MuiBox-root > .MuiBox-root > div:nth-child(odd){
+		background:#5f12688a;
+	}
+
+	.bondView.popupS .tableZone .MuiBox-root > .MuiBox-root:first-child > div{
+		background:none;
+	}
+
+
+ /* FIN BOND VIEW */
+
+
+
+/* START CALCULATOR VIEW */
+
+	.calculator-view .squaresLine{
+		border: solid 1px rgba(255,255,255,0.4);
+		padding: 30px;
+		border-radius: 14px;
+		margin-top:15px;
+		background: #440044;
+	}
+
+	.calculator-view .squaresLine > div:nth-child(2){
+		border-right: solid 1px rgba(255,255,255,0.4);
+		border-left: solid 1px rgba(255,255,255,0.4);
+	}
+	.calculator-view .squaresLine > div:nth-child(2){
+		border-right: solid 1px rgba(255,255,255,0.4);
+		border-left: solid 1px rgba(255,255,255,0.4);
+	}
+	.calculator-view .squaresLine h4{
+		font-weight: 600 !important;
+	}
+
+	.calculator-card-header h5{
+		font-size: 35px !important;
+		line-height: 29px !important;
+		margin-bottom: 30px !important;
+		font-weight:bold;
+	}
+
+	.calculator-card-header p{
+		font-size: 20px !important;
+		font-weight: 600;
+	}
+
+	.calculator-view > div{
+		margin-bottom: 100px !important;
+	}
+
+	.calculator-view .inputZone{
+		margin-bottom:40px !important;
+		margin-top:40px !important;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.calculator-view .inputZone h6{
+		font-size: 15px !important;
+	}
+	.calculator-view .regulatorZone{
+		margin-bottom:40px !important;
+	}
+
+	.calculator-view .rowsZone > div{
+		border-radius:999px;
+		padding: 15px 25px;
+		margin:0;
+	}
+
+	.calculator-view .rowsZone > div:nth-child(odd){
+		background:#5f12688a;
+	}
+
+	.calculator-view .rowsZone p{
+		font-size: 15px !important;
+	}
+
+	.calculator-view .calculator-card .calculator-card-area .calculator-card-action-area .calculator-card-action-area-inp-wrap .calculator-card-action-input {
+		width: 100%;
+		border-radius: 99px !important;
+		margin-top:15px;
+		border: solid 1px #ffffff57;
+	}
+
+/* END CALCULATOR VIEW*/
+
+/* START Public VIEW */
+
+.public-view .squaresLine{
+	border: solid 1px rgba(255,255,255,0.4);
+	padding: 30px;
+	border-radius: 14px;
+	margin-top:15px;
+	background: #440044;
+}
+
+.public-view .squaresLine > div:nth-child(2){
+	border-left: solid 1px rgba(255,255,255,0.4);
+}
+.public-view .squaresLine h4{
+	font-weight: 150!important;
+	padding: 12px;
+	font-size: 20px;
+}
+
+.public-view .squaresLine h6{
+	font-weight: 250!important;
+	padding: 12px;
+	font-size: 28px!important;
+} 
+
+.public-card-header h5{
+	font-size: 35px !important;
+	line-height: 29px !important;
+	margin-bottom: 30px !important;
+	font-weight:bold;
+}
+
+.public-card-header p{
+	font-size: 20px !important;
+	font-weight: 600;
+}
+
+.public-view > div{
+	margin-bottom: 100px !important;
+}
+
+.public-view .inputZone{
+	margin-bottom:40px !important;
+	margin-top:40px !important;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.public-view .inputZone h6{
+	font-size: 15px !important;
+}
+.public-view .regulatorZone{
+	margin-bottom:40px !important;
+}
+
+.public-view .rowsZone > div{
+	border-radius:999px;
+	padding: 15px 25px;
+	margin:0;
+}
+
+.public-view .rowsZone > div:nth-child(odd){
+	background:#5f12688a;
+}
+
+.public-view .rowsZone p{
+	font-size: 15px !important;
+}
+
+.public-view .public-card .public-card-area .public-card-action-area .public-card-action-area-inp-wrap .public-card-action-input {
+	width: 100%;
+	border-radius: 99px !important;
+	margin-top:15px;
+	border: solid 1px #ffffff57;
+}
+
+.cus-bg-img{
+	background-image: url(main_background_nftgmdao.jpg)!important;
+	background-size: cover!important;
+    background-position: center left!important;
+	filter: brightness(1.27);
+}
+
+
+@media (max-width: 1279px) {
+	.public-view .squaresLine > div:nth-child(2){
+		border-top: solid 1px rgba(255,255,255,0.4);
+		border-left: solid 1px rgba(255,255,255,0);
+	}
+
+}
+/* END public VIEW*/
+
+
+
+/* START STAKE VIEW */
+
+	.stakeView .squaresLine{
+		border: solid 1px rgba(255,255,255,0.4);
+		padding: 30px;
+		border-radius: 14px;
+		margin-bottom:35px;
+		background: #440044;
+	}
+
+	.stakeView .squaresLine > div:nth-child(2){
+		border-right: solid 1px rgba(255,255,255,0.4);
+		border-left: solid 1px rgba(255,255,255,0.4);
+	}
+
+	.stakeView .card-header h5{
+		font-size: 35px !important;
+		line-height: 29px !important;
+		margin-bottom: 30px !important;
+		font-weight:bold;
+	}
+
+	.stakeView .card-header p{
+		font-size: 20px !important;
+		font-weight: 600;
+	}
+
+/* END STAKE VIEW */
+
+
+@media (max-width: 600px) {
+
+	#treasury-dashboard-view .hero-metrics .hec-card div.metric{
+		border: 0;
+		border-top: solid 1px rgba(255,255,255,0.2);
+		max-width: 100%;
+		min-width: 100%;
+		width: 100% !important;
+	}
+
+	#treasury-dashboard-view .hero-metrics .hec-card div.metric:first-child{
+		border-top: solid 0px rgba(255,255,255,0.2);
+	}
+
+	.app.light .MuiTypography-h6{
+		text-align:center;
+	}
+
+	.stakeView .squaresLine > div:nth-child(2) {
+		border-right: solid 0px rgba(255,255,255,0.4);
+		border-left: solid 0px rgba(255,255,255,0.4);
+		text-align: center;
+	}
+
+
+
+
+	.app.light .MuiBox-root h5, .app.light .stake-top-metrics h5 {
+		padding: 0;
+		width: 100%;
+	}
+
+	.app.light .stake-top-metrics h4 {
+		width: 100%;
+	}
+
+	.MuiGrid-spacing-xs-2 > .MuiGrid-item {
+		padding: 23px 8px !important;
+	}
+
+
+
+
+	.app.light .MuiPaper-root.hec-card {
+		margin-top: 0px !important;
+	}
+
+
+	.app.light .MuiPaper-root.hec-card {
+		padding: 30px;
+	}
+
+
+	.calculator-view .MuiGrid-grid-xs-6 {
+		max-width: 100%;
+		flex-basis: 100%;
+	}
+
+	.calculator-view .squaresLine > div:nth-child(2) {
+		border-right: solid 0px rgba(255,255,255,0.4);
+		border-left: solid 0px rgba(255,255,255,0.4);
+	}
+
+	.calculator-view .squaresLine h4 {
+		width: 100%;
+	}
+
+
+	.app.light .MuiPaper-root.hec-card:not(#choose-bond-view .bond-data-card) {
+		background: rgba(72,0,72,0.7);
+		box-shadow:0px 0px 0px #fff;
+	}
+
+	.bondView .MuiGrid-grid-xs-6 {
+		flex-grow: 0;
+		max-width: 100%;
+		flex-basis: 100%;
+		border: solid 0px #fff !important;
+		margin-bottom: 30px;
+		margin-top: 10px !important;
+	}
+	
+	
+}
+.bg-video-wrap {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100vh;
+	}
+  video {
+	min-width: 100%;
+	min-height: 100vh;
+	z-index: 1;
+  }
+  .content{
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	background-image: url(images/merge.png);
+    background-size: 161%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }

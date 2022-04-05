@@ -1,0 +1,213 @@
+#vipCheckView-view {
+  max-width: 560px;
+  overflow: auto;
+  position: absolute !important;
+  width: 100%;
+  height: 100%;
+  z-index: 69;
+  .card-img{
+    width: 50%;
+    min-width: 200px;
+    text-align: center;
+  }
+  .left{
+    padding-top: 15px;
+  }
+  
+  .lower{
+    float:left;
+    width:100%;
+  }
+  .card_moving{
+    float : left;
+    width:100%;
+    height:auto;
+    animation: floatingZOOM 4s infinite;
+  }
+  .ava-col{
+    font-weight: 450!important;
+    color: #ef5a17;
+    font-size: 34px;
+  }
+  .f-p{
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.1;
+  }
+  .f-t{
+    color: yellow;
+    font-size: 24px;
+  }
+  .vip-button-area{
+    text-align: center;
+  }
+  .vip-button{
+    background-image: linear-gradient(9deg, #bb00a4, #3b007c);
+    padding: 12px 30px;
+    border-radius: 99px;
+    color: #fff;
+    border-style: solid;
+    border: 1px solid #ba2fb0;
+  }
+  @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+    .MuiBackdrop-root {
+      overflow: auto;
+      background: rgba(100, 100, 100, 0.1) !important;
+      backdrop-filter: blur(33px) !important;
+      -webkit-backdrop-filter: blur(33px) !important;
+      .hec-card {
+        background-image: url('images/main_background_nftgmdao.jpg');
+        opacity: 1 !important;
+        height: auto;
+      }
+    }
+    .hec-modal {
+      max-width: 688px;
+      min-height: 605px;
+    }
+  }
+
+  /* slightly transparent fallback for Firefox (not supporting backdrop-filter) */
+  @supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+    .MuiBackdrop-root {
+      background: hsla(283.2, 100%, 26.7%, 0.79);
+      .hec-card {
+        height: auto;
+        background-image: url('images/main_background_nftgmdao.jpg');
+      }
+    }
+    .hec-modal {
+      max-width: 688px;
+      min-height: 605px;
+      opacity: 0.9;
+    }
+  }
+  .hec-card {
+    max-width: 750px;
+  }
+
+  .bond-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .hec-pair-img,
+    .reserve-pair-img {
+      height: 38px;
+      width: 38px;
+    }
+    .bond-header-logo {
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      display: flex;
+      flex-direction: row;
+      .bond-header-name {
+        text-align: center;
+        margin-left: 0.33em;
+      }
+    }
+  }
+
+  .bond-data {
+    margin: 10px 0 0 0;
+  }
+
+  .bond-price-data-row {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 23px;
+    h4 {
+      margin-bottom: 0;
+    }
+    h3.price {
+      font-weight: 600 !important;
+    }
+  }
+
+  .hec-input {
+    min-width: 50%;
+    max-width: 408px;
+    margin: 5px;
+  }
+}
+
+.transaction-button {
+  min-width: 185px !important;
+  max-width: 408px;
+  width: 100%;
+  margin: 5px !important;
+}
+@media (max-width: 710px) {
+  .card-img{
+    float: none!important;
+    width: 70%;
+    min-width: 200px;
+    text-align: center;
+    margin: auto;
+  }
+  .card_moving{
+    float: none!important;
+    width:100%;
+    height:auto;
+    animation: floatingZOOM 4s infinite;
+  }
+  .f-p{
+    font-size: 14px;
+    line-height: 1.1;
+  }
+  .f-t{
+    font-size: 18px;
+  }
+}
+.mobile #vipCheckView-view {
+  .card-img{
+    float: none!important;
+    width: 70%;
+    min-width: 200px;
+    text-align: center;
+    margin: auto;
+  }
+  .card_moving{
+    float: none!important;
+    width:100%;
+    height:auto;
+    animation: floatingZOOM 4s infinite;
+  }
+  .f-p{
+    font-size: 14px;
+    line-height: 1.1;
+  }
+  .f-t{
+    font-size: 18px;
+  }
+  .hec-card {
+    background-image: url('images/main_background_nftgmdao.jpg')!important;
+    margin-top: 180px!important;
+    .card-content {
+      justify-content: space-evenly !important;
+      .bond-toggle-row {
+        justify-content: space-evenly !important;
+      }
+      .input-row {
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        .input-group.hec-input-group {
+          margin: 10px !important;
+          width: 75%;
+          height: 50px;
+        }
+        div.stake-button {
+          width: 75%;
+          margin-left: 0;
+          margin-top: 15px;
+          height: 50px;
+          font-size: 1.3em !important;
+        }
+      }
+    }
+  }
+}
